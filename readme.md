@@ -47,11 +47,17 @@ pip install requests jieba matplotlib beautifulsoup4 wordcloud pillow
 ### 📂 项目结构
 
 WordsMiner/
+
 ├── assets/ # 静态资源
+
 │ ├── fonts/ # 字体文件
+
 │ └── stopwords/ # 停用词库
+
 ├── temp/ # 临时文件
+
 ├── WordsMinerGUI.py # 主界面逻辑
+
 ├── WordsMinerCore.py # 核心处理逻辑
 
 ### 🤝 参与贡献
